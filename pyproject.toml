@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipyniivue>=2.4.4",
+    "pandas>=3.0.2",
 ]
 
 [dependency-groups]
