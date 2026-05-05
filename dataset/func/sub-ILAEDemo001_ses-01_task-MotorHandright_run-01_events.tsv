@@ -1,6 +1,6 @@
 onset	duration	trial_type
-30	30	TASK
-90	30	TASK
-150	30	TASK
-210	30	TASK
-270	30	TASK
+30	30	Motor
+90	30	Motor
+150	30	Motor
+210	30	Motor
+270	30	Motor
